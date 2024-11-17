@@ -1,6 +1,11 @@
 print("Nishant Y. Singh")
 
 def chai(n):
-    print (n + 1)
+    print (n )
 
-chai(5)
+chai("Tea")
+
+chai_1 = "Ginger Tea"
+chai_2 = "Masala Tea"
+chai_3 = "Black Tea"
+chai_4 = "Green Tea"
